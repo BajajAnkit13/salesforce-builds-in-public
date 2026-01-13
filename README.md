@@ -6,7 +6,7 @@ I work on Apex, Lightning Web Components, and integration use cases during the w
 
 ---
 
-## 🔧 Focus Areas
+## Focus Areas
 
 This repository emphasizes both **Salesforce platform skills** and **core software engineering principles**, including:
 
@@ -30,7 +30,7 @@ This repository emphasizes both **Salesforce platform skills** and **core softwa
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To build Salesforce solutions that are:
 - Cleanly designed using OOP principles  
