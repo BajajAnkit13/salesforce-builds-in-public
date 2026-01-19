@@ -1,5 +1,7 @@
 # Salesforce Builds in Public
 
+Core Project: Customer Account Lifecycle Management System
+
 This repository documents my Salesforce development practice journey.
 
 I work on Apex, Lightning Web Components, and integration use cases during the week and share weekly implementation learnings on LinkedIn. The goal is to build strong fundamentals first and gradually progress toward scalable, production-ready Salesforce patterns.
