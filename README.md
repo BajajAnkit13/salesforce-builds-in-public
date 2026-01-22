@@ -7,7 +7,14 @@ This repository documents my Salesforce development practice journey.
 I work on Apex, Lightning Web Components, and integration use cases during the week and share weekly implementation learnings on LinkedIn. The goal is to build strong fundamentals first and gradually progress toward scalable, production-ready Salesforce patterns.
 
 ---
+## Project Vision
 
+This repository documents an evolving Salesforce system built incrementally as new development and integration concepts are learned and applied.
+
+📄 **Detailed project goal and vision:**  
+[architecture/project-goal.md](architecture/project-goal.md)
+
+---
 ## Focus Areas
 
 This repository emphasizes both **Salesforce platform skills** and **core software engineering principles**, including:
@@ -40,5 +47,5 @@ To build Salesforce solutions that are:
 - Aligned with real-world business use cases  
 - Easy to understand, test, and extend  
 
-This is a living repository that evolves week-by-week as complexity increases.
+This is a living repository that evolves weekly as complexity increases.
 
